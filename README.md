@@ -1,8 +1,8 @@
 # README
 <h1 align="center">Hi 👋, I'm Sajad</h1>
-<h3 align="center">An Industrial Engineer who works as a Data Scientist</h3>
+<h3 align="center">An Industrial Engineer who works as a Data Scientist. </h3>
 
-- 💬 Ask me about **ML, DL, RL, Big Data**
+- 💬 Ask me about **ML, DL, RL, Big Data, and Data Analysis**
 
 - 📫 How to reach me **Sajadhdr796@gmail.com**
 
